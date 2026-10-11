@@ -145,4 +145,3 @@ ax.set_xlabel('Longitude') #x axis labels
 ax.set_ylabel('Latitude') #y axis labels
 plt.tight_layout() #to make sure no labels or ticks overlap
 plt.show() #show plot
-```
