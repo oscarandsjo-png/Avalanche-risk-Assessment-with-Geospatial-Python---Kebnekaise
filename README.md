@@ -1,3 +1,6 @@
+##INTRODUCTION
+This project aims to do an avalanche risk assessment of the Kebnekaise mountain that is intuitive and easy to use for someone planning a touring excursion up the mountain. The work mainly focuses on slope, curvature and cliff analysis of a 2 m DEM in Python (rioxarray, xarray, GeoPandas). It was my final project for the Geospatial Python course at Karlstad University (2025).
+
 ## Credit
 
 The avalanche risk scoring in this project is based on the Avaluator v2.0 slope evaluation card, which was created and published by Avalanche Canada (formerly the Canadian Avalanche Centre). The card and its scoring system are their work, not mine. I only used it as the basis for classifying the terrain in my code. You can find the card and more information on their website: https://avalanche.ca/pages/avaluator
