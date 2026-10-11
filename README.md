@@ -1,4 +1,4 @@
-##INTRODUCTION
+## INTRODUCTION
 This project aims to do an avalanche risk assessment of the Kebnekaise mountain that is intuitive and easy to use for someone planning a touring excursion up the mountain. The work mainly focuses on slope, curvature and cliff analysis of a 2 m DEM in Python (rioxarray, xarray, GeoPandas). It was my final project for the Geospatial Python course at Karlstad University (2025).
 
 ## Credit
